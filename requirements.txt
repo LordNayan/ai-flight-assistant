@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+requests
+pydantic
+selenium
+langchain
+pydantic-settings
+langchain_openai
+langchain_community
+anthropic
+langchain-anthropic
